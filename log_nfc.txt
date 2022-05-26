@@ -1,0 +1,18 @@
+[2022.01.24 15:27:11]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:11]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:11]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:12]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:12]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:12]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:13]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:13]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:13]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:14]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:14]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:14]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:15]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:15]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:15]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:16]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
+[2022.01.24 15:27:16]:ERROR:RFProtocolTuningService_PN5190:Cmd Rsp : HAL,IO_TIMEOUT
+[2022.01.24 15:27:16]:INFO:RFProtocolTuningService_PN5190:Sent Cmd. Received = 02 00
